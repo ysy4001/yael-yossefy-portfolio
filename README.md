@@ -4,18 +4,10 @@ I earned my Bachelor's degree in Mathematics and Physics from Wesleyan Universit
 
 You can see some of my projects at the links below:
 
-## 📂 Project Categories
-- 🧠 [Data Science](./data-science/)
-- 🌐 [Biostatistics](./biostatistics/)
-- 📊 [Data Management](./data-management/)
+## 📁 Projects
 
-
-## 🏆 Featured Projects
-| Project | Description | Tools |
-|----------|--------------|-------|
-| [Student Life Study Analysis](./data-science/studentlife-analysis) | Analysis of Passive Data from the StudentLife Study | R |
-| [Study of CPR During Cardiac Arrest](./biostatistics/etcd-and-amc) | Analyzes the relationship between End-tidal carbon dioxide and Area of maximum compression | R |
-| [Helathcare Workforce Wellness](./data-management/workforce-wellness) | Models a workforce tracking system designed for use in a healthcare organization | SQL |
+- **[Capstone Project - Impact of Metformin on Immunotherapy Outcomes among Breast Cancer Patients with   
+Type 2 Diabetes](./capstone-project/)**
 
 
 ### 📫 How to reach me:
