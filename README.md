@@ -1,3 +1,21 @@
+# Hi there 👋 I'm Yael. 
+
+I earned my Bachelor's degree in Mathematics and Physics from Wesleyan University, my Master of Science in Biostatics and Data Science from Weill Cornell Medicine. I am passionate about applying quantitative methods to clinical and public health questions using real-world healthcare data. 
+
+You can see some of my projects at the links below:
+
+### 🔭 I’m currently working on:
+- Project A
+- Project B
+
+### 💻 Languages and Tools:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname)
+
+### 📫 How to reach me:
+- 📧 yyossefy@wesleyan.edu
+- 💼 [linkedin.com/in/yourname](https://www.linkedin.com/in/yael-yossefy-7b0246205/)
+
+
 # Hi, I'm Yael Yossefy
 Welcome to my portfolio!  
 Here you'll find selected projects that showcase my work in **Data Science**, **Biostatistics**, and **Data Management**.
