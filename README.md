@@ -10,7 +10,8 @@ You can see some of my projects at the links below:
 - **[Predicting Intubation within 5 days of Hospitalization for COVID-19 Patients](./predicting-intubation/)**
 - **[Claims Data Analysis in SQL](./claims-data-analysis/)**
 - **[Study of CPR during Cardiac Arrest](./cardiac-arrest-eda/)** In this report, we observed the relationship between EtCO2 (end-tidal carbon dioxide) and AMC (area of maximum compression) to understanding the quality of chest compression during CPR. This study focuses on 2 primary areas of compression, the left ventricle (LV) and the left ventricle outflow tract (LVOT)/aortic root, and how compression over these AMCs impact EtCO2 levels and whether this impact changes by the CPR patients’ pre existing medical conditions, such as coronary artery disease, congestive hearth failure, chronic kidney disease, diabetes mellitus and myocardial infarction. The data set consists of 129 cases of in-hospital cardiac arrests where transesophageal echocardiography (TEE) imaging was employed during CPR. We performed exploratory data analysis, regression modeling, and ANOVA tests in R.
-- 
+- **[Healthcare Workforce Wellness Databases](./healthcare-workforce-wellness-database/)** This project models a workforce tracking system designed for use in a healthcare organization. The goal is to help leadership monitor employee wellness, assess employment trends over time, and support decisions related to staffing, resource allocation, and organizational well-being. This involved creating four relational databases, employee demographics, employment history, job categories, and welness tracking, populating them with mock data, creating appropriate triggers and indexes, and running SQL queries to answer questions of interest about burnout, overtime, promotions, turnovers, and other workforce wellness trends and relationships.
+
 
 
 
