@@ -8,6 +8,7 @@ You can see some of my projects at the links below:
 
 - **[Capstone Project](./capstone-project/)** In this project, I analyzed the impact of metformin on immunotherapy outcomes among breast cancer patients with type 2 diabetes. I processed, cleaned, and quality checked over 15 relational datasets from TriNetX databases for analysis using R, and created reproducible workflows and data dictionaries for newly derived variables. I performed exploratory data analysis, survival analysis, and built multivariable regression models in R, and collaborated with students and advisers at Weill Cornell to resolve data challenges, discuss methodology, and produce weekly and ad-hoc deliverables, visualizations, and statistical analyses.
 - **[Predicting Intubation within 5 days of Hospitalization for COVID-19 Patients](./predicting-intubation/)**
+- **[Claims Data Analysis in SQL](./claims-data-analysis/)**
 
 
 
